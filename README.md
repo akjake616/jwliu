@@ -1,4 +1,5 @@
-# Academic Page of Jake W Liu
+# My Academic Page 
 
-[This](https://jake-w-liu.github.io/) is my academic page, welcome! :blush:
-Created out from template provided by [this site](https://github.com/academicpages/academicpages.github.io).
+Welcome to [my academic page](https://jake-w-liu.github.io/)! :blush:
+
+Created out from the template provided by [academicpages](https://github.com/academicpages/academicpages.github.io).

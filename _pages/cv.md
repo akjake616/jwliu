@@ -11,37 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Graduate Institute of Communication Engineering, National Taiwan University, 2022
+* B.S. in Electrical Engineering, National Taiwan University, 2017
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021-2024: R&D Engineer
+  * Omplus Technology
+  * Rapid antenna array and RFID calibration algorithm development
+  * Compact antenna test range (CATR) design
+  * Antenna measurement theory
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024-: Postdoctoral Researcher
+  * Graduate Institute of Photonics and Optoelectronics, National Taiwan University
+  * Computational electromagnetics: pseudospectral time-domain (PSTD) method
+  * Wave scattering in random media
+  * Supervisor: Snow H. Tseng
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017 Taiwan Creative Electromagnetic Implementation Competition (T-CEIC)
+  * First Prize
+  * Topic: Real-Time Optimization of WiFi RF Signal Distribution in the Coverage of Smart Antenna System via the Cloud Database Computation
+* 2022 National Invention and Creation Award (NICA)
+  * Silver Medal Award
+  * Patent No: I739181
+* 2023 Chun-Hsiung Chen Scholoship for Electromagnetic Talent Cultivation
+  * First Prize of Graduate Group
+  * Topic: A Calibration Method for A Phased Array Antenna
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

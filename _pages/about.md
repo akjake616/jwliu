@@ -7,3 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+<h1>Hi 👋</h1>
+
+*** Currently engaged in a postdoctoral position specializing in optical simulations, with a focus on the pseudospectral time-domain (PSTD) method. Dedicated to leveraging cutting-edge technology to drive innovation and exploration in this dynamic field. ***
+
+
+My doctoral thesis focuses on the development of algorithms designed for the rapid calibration of antenna arrays. I have a keen interest in electromagetic theory, digital communications and programming.
+
+
+I am a dedicated software developer with a primary focus on Julia programming, excelling in creating high-performance solutions for numerical and scientific computing challenges. Additionally, I am exploring the JavaScript ecosystem to enhance my web development skills and integrate dynamic functionalities into my projects.
