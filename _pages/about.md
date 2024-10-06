@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1>Hi 👋</h1>
+<h2>Hi 👋</h2>
 
 *** Currently engaged in a postdoctoral position specializing in optical simulations, with a focus on the pseudospectral time-domain (PSTD) method. Dedicated to leveraging cutting-edge technology to drive innovation and exploration in this dynamic field. ***
 

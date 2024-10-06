@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Graduate Institute of Communication Engineering, National Taiwan University, 2022
+  * Advisor: Hsi-Tseng Chou
 * B.S. in Electrical Engineering, National Taiwan University, 2017
 
 Work Experience
