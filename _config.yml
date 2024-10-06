@@ -84,12 +84,12 @@ publication_category:
     
 # Patent Category - The following the list of patent categories and their headings
 patent_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  taiwan:
+    title: 'TW'
+  america:
+    title: 'US'    
+  china:
+    title: 'CN'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -275,7 +275,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # patents
+  # _patents
   - scope:
       path: ""
       type: patents
