@@ -24,8 +24,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Jake W. Liu"
   pronouns         : # example: "she/her"  
-  bio              : "I received my B.S. in Electrical Engineering from NTU in 2017 and my Ph.D. in Communication Engineering in 2022, GICE, NTU. 
-  My research focuses on antenna measurement theory, phased array calibration, computational electromagnetics and biomedical optics. I am currently a postdoctoral researcher at the GIPO, NTU."
+  bio              : "I am currently a postdoctoral researcher at the GIPO, NTU.
+  My research focuses on antenna measurement theory, phased array calibration, computational electromagnetics and biomedical optics. "
   location         : "Taipei"
   employer         : "National Taiwan University"
   uri              : # URL
