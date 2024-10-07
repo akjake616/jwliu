@@ -3,7 +3,7 @@ title: "Synthesis and Characteristic Evaluation of Convex Metallic Reflectarray 
 collection: publications
 category: manuscripts
 permalink: /publication/2018-05-28-TAP-reflectarray
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ' '
 date: 2018-05-28
 venue: 'IEEE Transactions on Antennas and Propagation'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
