@@ -15,7 +15,7 @@ Education
   * Advisor: Hsi-Tseng Chou
 * B.S. in Electrical Engineering, National Taiwan University, 2017
 
-Work Experience
+Experience
 ======
 * 2021-2024: R&D Engineer
   * Omplus Technology
@@ -23,7 +23,7 @@ Work Experience
   * Compact antenna test range (CATR) design
   * Antenna measurement theory
 
-* 2024-: Postdoctoral Researcher
+* 2024- : Postdoctoral Researcher
   * Graduate Institute of Photonics and Optoelectronics, National Taiwan University
   * Computational electromagnetics: pseudospectral time-domain (PSTD) method
   * Wave scattering in random media
