@@ -39,7 +39,7 @@
     {% elsif post.collection == 'publications' %}
     <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'patents' %}
-    <!-- <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
+    <p>Published in  {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.date %}
     <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{
         site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time
@@ -56,13 +56,13 @@
     </p>
     {% endif %}
 
-    {% if post.citation and post.paperurl and post.slidesurl %}
+    {% if post.citation and post.paperurl and post.patenturl and post.slidesurl %}
     <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a
         href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation and post.paperurl %}
     <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
     {% elsif post.citation and post.patenturl %}
-    <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.patenturl }}">Google Patent</a></p>
+    <p><a href="{{ post.patenturl }}">Google Patent</a></p>
     {% elsif post.citation and post.slidesurl %}
     <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation %}
