@@ -40,7 +40,7 @@
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
     
     {% if post.slidesurl %}
-    <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p>
+    <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     </p>
     {% endif %}
   </article>

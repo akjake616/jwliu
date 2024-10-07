@@ -5,8 +5,9 @@ type: "Talk"
 permalink: /talks/julia_intro
 venue: "National Taiwan University"
 # date: 2012-03-01
+excerpt: "Julia is a high-level, open-source language optimized for technical computing, offering powerful capabilities in syntax flexibility, package management, and parallel computing."
 location: "Taipei, Taiwan"
-slidesurl: 'http://academicpages.github.io/files/Julia_Intro.pdf'
+slidesurl: 'http://jake-w-liu.github.io/files/Julia_Intro.pdf'
 ---
 
 
