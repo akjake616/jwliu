@@ -86,7 +86,7 @@ publication_category:
 patent_category:
   taiwan:
     title: 'TW'
-  america:
+  us:
     title: 'US'    
   china:
     title: 'CN'
