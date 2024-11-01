@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate/graduate course"
 permalink: /teaching/SLSP
 venue: "NTU EE / NTU GIPO"
-# date: 2014-01-01
+date: 2024-09-01
 location: "Taipei, Taiwan"
 ---
 
