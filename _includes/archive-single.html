@@ -66,10 +66,10 @@
     {% endif %}
 
     {% if post.citation and post.paperurl and post.patenturl and post.slidesurl %}
-    <p class="archive__item-citation" >Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a
+    <p class="archive__item-citation" >Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper URL</a> | <a
         href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation and post.paperurl %}
-    <p class="archive__item-citation" >Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
+    <p class="archive__item-citation" >Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper URL</a></p>
     {% elsif post.patenturl %}
     <p class="archive__item-citation" ><a href="{{ post.patenturl }}">Google Patent</a></p>
     {% elsif post.citation and post.slidesurl %}
@@ -77,7 +77,7 @@
     {% elsif post.citation %}
     <p class="archive__item-citation" >Recommended citation: {{ post.citation }}</p>
     {% elsif post.paperurl %}
-    <p class="archive__item-citation" ><a href=" {{ post.paperurl }} ">Download Paper</a></p>
+    <p class="archive__item-citation" ><a href=" {{ post.paperurl }} ">Paper URL</a></p>
     {% elsif post.slidesurl %}
     <p class="archive__item-citation" ><a href="{{ post.slidesurl }}">Download Slides</a></p>
     </p>
