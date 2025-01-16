@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/C2020-08-24-ICCEM-FSS
 excerpt: ' '
 date: 2020-08-24
-venue: '2020 IEEE International Conference on Computational Electromagnetics (ICCEM)'
+venue: 'IEEE International Conference on Computational Electromagnetics (ICCEM)'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'H. -T. Chou, J. W. Liu, K. -Y. Lin and S. Panigrahi, "Effective Modeling of Frequency Selective Surfaces by Equivalent Dielectric Substrates Using Genetic Algorithm for Electromagnetic Scattering Analysis," 2020 IEEE International Conference on Computational Electromagnetics (ICCEM), Singapore, 2020, pp. 103-104, doi: 10.1109/ICCEM47450.2020.9219428.'
 ---

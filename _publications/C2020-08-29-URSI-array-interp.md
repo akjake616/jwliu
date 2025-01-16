@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/C2020-08-29-URSI-array-interp
 excerpt: ' '
 date: 2020-08-29
-venue: '2020 Union Radio-Scientifique Internationale (URSI) GASS'
+venue: 'Union Radio-Scientifique Internationale (URSI) GASS'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'J. W. Liu and H. -T. Chou, "Antenna Radiation Field Pattern Interpolation Technique from Sparse Measurements According to Discrete Fourier Transform," 2020 URSI GASS,2020, pp. 1-4.'
 ---

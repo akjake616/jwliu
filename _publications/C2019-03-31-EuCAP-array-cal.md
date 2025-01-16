@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/C2019-03-31-EuCAP-array-cal
 excerpt: ' '
 date: 2019-03-31
-venue: '2019 13th European Conference on Antennas and Propagation (EuCAP)'
+venue: '13th European Conference on Antennas and Propagation (EuCAP)'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'H. -T. Chou, J. W. Liu and W. -J. Liao, "Fast Phased Array Antenna Calibration Incorporating with a Far-field Radiation Measurement System," 2019 13th European Conference on Antennas and Propagation (EuCAP), Krakow, Poland, 2019, pp. 1-4.'
 ---

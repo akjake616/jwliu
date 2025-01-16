@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/C2021-08-25-RFIT-absorber
 excerpt: ' '
 date: 2021-08-25
-venue: '2021 IEEE International Symposium on Radio-Frequency Integration Technology (RFIT)'
+venue: 'IEEE International Symposium on Radio-Frequency Integration Technology (RFIT)'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'H. -T. Chou, J. W. Liu, T. Chang and Y. -S. Chang, "A Design of Perodic Circuit Analog Absorber at X-band and its Fabrication Discrepancy Analysis," 2021 IEEE International Symposium on Radio-Frequency Integration Technology (RFIT), Hualien, Taiwan, 2021, pp. 1-3, doi: 10.1109/RFIT52905.2021.9565252.'
 ---
