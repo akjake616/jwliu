@@ -2,7 +2,7 @@
 title: "Effective Modeling of Frequency Selective Surfaces by Equivalent Dielectric Substrates Using Genetic Algorithm for Electromagnetic Scattering Analysis"
 collection: publications
 category: conferences
-permalink: /publication/2020-08-24-ICCEM-FSS
+permalink: /publication/C2020-08-24-ICCEM-FSS
 excerpt: ' '
 date: 2020-08-24
 venue: '2020 IEEE International Conference on Computational Electromagnetics (ICCEM)'

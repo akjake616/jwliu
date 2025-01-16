@@ -2,7 +2,7 @@
 title: "Active Phased Array Antenna Optimization and Calibration for Satellite Applications"
 collection: publications
 category: conferences
-permalink: /publication/2022-12-08-IEICE-array-cal
+permalink: /publication/C2022-12-08-IEICE-array-cal
 excerpt: ' '
 date: 2022-12-08
 venue: '2022 電子情報通信学会技術研究報告 (IEICE Technical Report)'

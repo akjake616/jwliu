@@ -2,7 +2,7 @@
 title: "Antenna Radiation Field Pattern Interpolation Technique from Sparse Measurements According to Discrete Fourier Transform"
 collection: publications
 category: conferences
-permalink: /publication/2020-08-29-URSI-array-interp
+permalink: /publication/C2020-08-29-URSI-array-interp
 excerpt: ' '
 date: 2020-08-29
 venue: '2020 Union Radio-Scientifique Internationale (URSI) GASS'

@@ -2,7 +2,7 @@
 title: "A Design of Perodic Circuit Analog Absorber at X-band and its Fabrication Discrepancy Analysis"
 collection: publications
 category: conferences
-permalink: /publication/2021-08-25-RFIT-absorber
+permalink: /publication/C2021-08-25-RFIT-absorber
 excerpt: ' '
 date: 2021-08-25
 venue: '2021 IEEE International Symposium on Radio-Frequency Integration Technology (RFIT)'

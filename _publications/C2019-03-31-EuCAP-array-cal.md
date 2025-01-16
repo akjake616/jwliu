@@ -2,7 +2,7 @@
 title: "Fast Phased Array Antenna Calibration Incorporating with a Far-field Radiation Measurement System"
 collection: publications
 category: conferences
-permalink: /publication/2019-03-31-EuCAP-array-cal
+permalink: /publication/C2019-03-31-EuCAP-array-cal
 excerpt: ' '
 date: 2019-03-31
 venue: '2019 13th European Conference on Antennas and Propagation (EuCAP)'
