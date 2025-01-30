@@ -18,7 +18,7 @@ Education
 Experience
 ======
 * 2022-2024: R&D Engineer
-  * Omplus Technology
+  * Omplus Technology (Co-Founder)
   * Rapid antenna array and RFIC calibration algorithm development
   * Compact antenna test range (CATR) design
   * Antenna measurement theory
