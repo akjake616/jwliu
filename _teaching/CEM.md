@@ -11,6 +11,6 @@ venue: "-"
 PREPARING...
 
 * Chapter 1: Overview ([Slides](http://jake-w-liu.github.io/files/cem_ch1_overview.pdf))
-* Chapter 2: Electromagnetic Theorems
-* Chapter 3: Wave Harmonics
-* Chapter 4: Radiation
+* Chapter 2: Method of Moments
+* Chapter 3: Finite Element Method
+* Chapter 4: Finite-Difference Time-Domain Method
