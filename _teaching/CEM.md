@@ -8,7 +8,7 @@ venue: "-"
 # location: "Taipei, Taiwan"
 ---
 
-PREPARING...
+_PREPARING..._
 
 * Chapter 1: Overview ([Slides](http://jake-w-liu.github.io/files/cem_ch1_overview.pdf))
 * Chapter 2: Method of Moments
